@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+    color: white;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.profile-pic {
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+.btn {
+    background: white;
+    color: #ff5e62;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+footer {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 10px;
+}
